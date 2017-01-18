@@ -1,0 +1,1035 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mediu",
+				"media($medium-screen-up\t(_header.scss)"
+			],
+			[
+				"paddin",
+				"padding-left\t(_navigation.scss)"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"full",
+				"full-width"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"stree",
+				"street"
+			],
+			[
+				"street",
+				"streetNumber"
+			],
+			[
+				"stre",
+				"street"
+			],
+			[
+				"final",
+				"finalPrice"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"utility-h",
+				"utility-home-testimonials"
+			],
+			[
+				"utility_pro_add_h",
+				"utility_pro_add_home_testimonials"
+			],
+			[
+				"Wi",
+				"weight"
+			],
+			[
+				"sub",
+				"subtract"
+			],
+			[
+				"curre",
+				"current_file"
+			],
+			[
+				"print_a",
+				"print_a_line"
+			],
+			[
+				"curr",
+				"current_file"
+			],
+			[
+				"print",
+				"print_a_line"
+			],
+			[
+				"current",
+				"current_line"
+			],
+			[
+				"am",
+				"amount_of_crackers"
+			],
+			[
+				"amount",
+				"amount_of_cheese"
+			],
+			[
+				"chee",
+				"cheese_and_crackers"
+			],
+			[
+				"che",
+				"cheese_and_cracker"
+			],
+			[
+				"print_",
+				"print_two"
+			],
+			[
+				"out",
+				"out_file"
+			],
+			[
+				"line",
+				"line3"
+			],
+			[
+				"file",
+				"file_again"
+			],
+			[
+				"fie",
+				"filename"
+			],
+			[
+				"txt",
+				"txt_again"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"joll",
+				"jolleydigital"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"utility",
+				"utility-pro"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"al",
+				"alignright"
+			],
+			[
+				"before",
+				"before-entry"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"scroll",
+				"scroll-down"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"utili",
+				"utility-bar-right"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"3-column",
+				"3-column-footer"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"h",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3226,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"browse s",
+				"SFTP: Browse Server…"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"colors",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"color",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: Disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"rename",
+				"Emmet: Rename Tag"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Git: Add All"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"git gui",
+				"Git: Gui"
+			],
+			[
+				"package contro: install",
+				"Package Control: Install Package"
+			],
+			[
+				"package contro: list ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git add all",
+				"Git: Add All"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"package control: install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:",
+				"Package Control: List Packages"
+			],
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"sam",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"b",
+				"SFTP: Browse Server…"
+			],
+			[
+				"br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"selection",
+				"Rot13 Selection"
+			],
+			[
+				"package control: enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"packing",
+				"Package Control: Install Package"
+			],
+			[
+				" browse",
+				"SFTP: Browse Server…"
+			],
+			[
+				" br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brwose",
+				"Preferences: Browse Packages"
+			],
+			[
+				"browse ser",
+				"SFTP: Browse Server…"
+			],
+			[
+				"pack install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"brose",
+				"SFTP: Browse Server…"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"cancel",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: html"
+			]
+		],
+		"width": 550.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/front-page.php",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/includes/widget-areas.php",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials/_widgets.scss",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials/_plugins.scss",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials/_navigation.scss",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials/_header.scss",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials/_theme-colors.scss",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials/_content-area.scss",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials/_defaults.scss",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials/_variables.scss",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials/_layout.scss",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials/_common-classes.scss",
+		"/Users/samjolley/Documents/websites/portfoliodev/css/main.css",
+		"/Users/samjolley/Documents/websites/portfoliodev/index.html",
+		"/Users/samjolley/Desktop/websites-backup/rfw/app/sql/local.wp_posts.sql",
+		"/Users/samjolley/Desktop/websites-backup/rfw/app/sql/local.wp_term_taxonomy.sql",
+		"/Users/samjolley/Desktop/websites-backup/rfw/app/sql/local.wp_termmeta.sql",
+		"/Users/samjolley/Desktop/websites-backup/rfw/app/sql/local.wp_terms-schema.sql",
+		"/Users/samjolley/Desktop/websites-backup/rfw/app/sql/local.wp_terms.sql",
+		"/Users/samjolley/Documents/websites/rfw/app/sql/local.wp_options.sql",
+		"/Users/samjolley/Desktop/websites-backup/rfw/app/sql/local.wp_options-schema.sql",
+		"/Users/samjolley/Desktop/websites-backup/rfw/app/sql/local.wp_links-schema.sql",
+		"/Users/samjolley/Desktop/websites-backup/rfw/app/sql/local.wp_commentmeta-schema.sql",
+		"/Users/samjolley/Documents/websites/portfoliodev/css/normalize.css",
+		"/Users/samjolley/drive/work/learn/skillcrush-exercises/html5-blog-post.html",
+		"/Users/samjolley/Downloads/Sketch 3.8.1 cracked/Sketch 3.8.1/Read Me.txt",
+		"/Users/samjolley/Downloads/Sketch 3.8.1 cracked/Torrent downloaded from Demonoid.ooo.txt",
+		"/Users/samjolley/drive/work/learn/skillcrush-exercises/holstee-manifesto.html",
+		"/Users/samjolley/drive/work/learn/skillcrush-exercises/holstee-manifesto-v1.html",
+		"/Users/samjolley/drive/work/learn/skillcrush-exercises/holstee-manifesto.css",
+		"/Users/samjolley/Desktop/car-orders.js",
+		"/Users/samjolley/Desktop/: Purpose: create a system for creating cars give.js",
+		"/Users/samjolley/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/samjolley/drive/work/learn/holstee-manifesto-v1.html",
+		"/Users/samjolley/drive/work/learn/holstee-manifesto.css",
+		"/Users/samjolley/drive/work/learn/holstee-manifesto.html",
+		"/Users/samjolley/drive/work/learn/html5-blog-post.html",
+		"/Users/samjolley/drive/work/learn/alert.html",
+		"/Users/samjolley/drive/work/learn/alert.css",
+		"/Users/samjolley/drive/work/learn/beginner-mistakes.html",
+		"/Users/samjolley/drive/work/learn/tech-resources.html",
+		"/Users/samjolley/drive/work/learn/get-hired-in-tech-as-beginner.html",
+		"/Users/samjolley/drive/work/learn/advice-from-women-in-tech.html",
+		"/Users/samjolley/drive/work/learn/wild-future.html",
+		"/Users/samjolley/drive/work/learn/A Coffin—is a Small Domain.html",
+		"/Users/samjolley/drive/work/learn/<h1>Code Gone Wild<:h1>.html",
+		"/Users/samjolley/drive/work/learn/My Favorite Marine Mammals.html",
+		"/Users/samjolley/drive/work/learn/<h1>My Favorite Tips for Freelancers<:h1>.html",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/style.css",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/functions.php",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials/_site-footer.scss",
+		"/Users/samjolley/Downloads/Adobe CC 2015 - Ilustrator 19.2 + Indesign 11.1 + Photoshop 16.1 + Patch/Readme - Instructions.txt",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/style.scss",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/.gitignore",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials/_print-media-queries.scss",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials/_reset.scss",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials/_accessibility.scss",
+		"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/README.md",
+		"/Users/samjolley/Documents/websites/troop74/app/public/wp-content/themes/troop-74-pro/assets/scss/style.scss",
+		"/Users/samjolley/Documents/websites/troop74/app/public/wp-content/themes/troop-74-pro/assets/scss/partials/_variables.scss",
+		"/Users/samjolley/Documents/websites/troop74/app/public/wp-content/themes/troop-74-pro/style.css",
+		"/private/etc/hosts",
+		"/Users/samjolley/Documents/websites/drupal-vm-master/default.config.yml",
+		"/Users/samjolley/Documents/websites/drupal-vm-master/README.md",
+		"/Users/samjolley/Downloads/wget/README.txt",
+		"/opt/vagrant/embedded/lib/ruby/2.2.0/debug.rb",
+		"/Users/samjolley/Documents/websites/drupal-vm-master/mkdocs.yml",
+		"/Users/samjolley/Documents/websites/md/app/public/wp-content/themes/md-pro/assets/scss/partials/_navigation.scss",
+		"/Users/samjolley/Documents/websites/md/app/public/wp-content/themes/md-pro/assets/scss/partials/_plugins.scss",
+		"/Users/samjolley/Documents/websites/md/app/public/wp-content/themes/md-pro/assets/scss/partials/_print-media-queries.scss",
+		"/Users/samjolley/Documents/websites/md/app/public/wp-content/themes/md-pro/assets/scss/partials/_reset.scss",
+		"/Users/samjolley/Documents/websites/md/app/public/wp-content/themes/md-pro/assets/scss/partials/_site-footer.scss",
+		"/Users/samjolley/Documents/websites/md/app/public/wp-content/themes/md-pro/assets/scss/partials/_theme-colors.scss",
+		"/Users/samjolley/Documents/websites/md/app/public/wp-content/themes/md-pro/assets/scss/partials/_accessibility.scss",
+		"/Users/samjolley/Documents/websites/md/app/public/wp-content/themes/md-pro/assets/scss/partials/_common-classes.scss",
+		"/Users/samjolley/Documents/websites/md/app/public/wp-content/themes/md-pro/assets/scss/style.scss",
+		"/Users/samjolley/Documents/websites/md/app/public/wp-content/themes/md-pro/assets/scss/partials/_header.scss",
+		"/Users/samjolley/Documents/websites/md/app/public/wp-content/themes/md-pro/assets/scss/partials/_defaults.scss",
+		"/Users/samjolley/Documents/websites/md/app/public/wp-content/themes/md-pro/assets/scss/partials/_widgets.scss",
+		"/Users/samjolley/Documents/websites/md/app/public/wp-content/themes/md-pro/bower_components/material-design-lite/material.css",
+		"/Users/samjolley/Documents/websites/md/app/public/wp-content/themes/md-pro/assets/scss/partials/_content-area.scss",
+		"/Users/samjolley/Documents/websites/md/app/public/wp-content/themes/md-pro/assets/scss/partials/_layout.scss",
+		"/Users/samjolley/Documents/websites/md/app/public/wp-content/themes/md-pro/README.md",
+		"/Users/samjolley/Documents/websites/md/app/public/wp-config.php",
+		"/Users/samjolley/Documents/websites/md/app/public/.gitignore",
+		"/Users/samjolley/Documents/websites/md/app/public/readme.md",
+		"/Users/samjolley/drive/work/jd/resources/Utility Pro/Utility Pro Resources",
+		"/Users/samjolley/Downloads/The War of Art - Steven Pressfield/info.txt",
+		"/Users/samjolley/Downloads/muddyboots-style.css",
+		"/Users/samjolley/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Users/samjolley/Documents/websites/jd/app/public/README.md",
+		"/Users/samjolley/Desktop/fonts to try for logo",
+		"/Users/samjolley/Downloads/typewolf_google_fonts/_readme.txt",
+		"/Users/samjolley/Downloads/color_swatches/read_me.txt",
+		"/Users/samjolley/Documents/websites/muddyboots/app/public/wp-content/themes/muddy-boots-pro/front-page.php",
+		"/Users/samjolley/Documents/websites/muddyboots/app/public/wp-content/themes/muddy-boots-pro/functions.php",
+		"/Users/samjolley/Documents/websites/muddyboots/app/public/wp-content/themes/muddy-boots-pro/style.css",
+		"/Users/samjolley/drive/work/jd/resources/WordPress/Utility Pro/utility-pro/style.css",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1481821954/SamJolley.com/public_html/muddyboots/wp-content/themes/muddy-boots-pro/style.css",
+		"/Users/samjolley/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/samjolley/Desktop/muddyboots/muddyboots-style.css-cache",
+		"/Users/samjolley/Desktop/cache.log",
+		"/Users/samjolley/Desktop/index.php",
+		"/Users/samjolley/drive/work/jd/projects/local/websites/cache.dev/index.html",
+		"/Users/samjolley/drive/work/jd/projects/local/websites/cache.dev/index.php",
+		"/Users/samjolley/Desktop/muddyboots/muddyboots.txt",
+		"/Users/samjolley/Desktop/muddyboots/recovered.txt",
+		"/Users/samjolley/Desktop/muddyboots/Instructions for Kate.txt",
+		"/Users/samjolley/Desktop/muddyboots/Instructions for Kate",
+		"/Users/samjolley/Desktop/muddyboots/muddyboots-style.css-cache.txt",
+		"/Users/samjolley/Desktop/muddyboots/.gitignore",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1481745699/SamJolley.com/public_html/muddyboots/wp-content/themes/muddy-boots-pro/functions.php",
+		"/Users/samjolley/Desktop/muddyboots/wp-config.php",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1481746421/SamJolley.com/public_html/muddyboots/wp-content/themes/muddy-boots-pro/style.css",
+		"/Users/samjolley/Downloads/style.css.htm",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1481759731/SamJolley.com/public_html/muddyboots/wp-content/themes/muddy-boots-pro/style.css",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1481745626/SamJolley.com/public_html/muddyboots/wp-content/themes/muddy-boots-pro/style.css",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1481727739/SamJolley.com/public_html/muddyboots/wp-content/themes/muddy-boots-pro/functions.php",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1481727751/SamJolley.com/public_html/muddyboots/wp-content/themes/muddy-boots-pro/front-page.php",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1481727470/SamJolley.com/public_html/muddyboots/wp-content/themes/muddy-boots-pro/style.css",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1481039292/SamJolley.com/public_html/wp-content/themes/utility-pro/style.css",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/utility-pro-developer/functions.php",
+		"/Users/samjolley/Desktop/SM-G935U Root : Unroot Guide",
+		"/Users/samjolley/drive/work/jd/resources/WordPress/Themes/Genesis Child Themes/Utility Pro/Utility Pro Resources",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1481032907/SamJolley.com/public_html/wp-config.php",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1481032970/SamJolley.com/public_html/wp-content/themes/utility-pro/functions.php",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1480523855/SamJolley.com/public_html/muddyboots/wp-content/themes/muddy-boots-pro/front-page.php",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1480523352/SamJolley.com/public_html/muddyboots/wp-content/themes/muddy-boots-pro/includes/widget-areas.php"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+			"<current file>,/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials",
+			"<current file>",
+			"<current file>,/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials",
+			"<current file>",
+			"<open files>",
+			"<current file>",
+			"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials",
+			"<current file>",
+			"<open files>",
+			"/Users/samjolley/Documents/websites/md/app/public/wp-content/themes/md-pro/assets/scss/partials",
+			"<current file>,<open files>",
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"testim",
+			".featured-image",
+			"button",
+			"amethyst",
+			"media",
+			"media only",
+			"media",
+			"@",
+			"blue",
+			"awesome",
+			"widget",
+			"border",
+			"background: #",
+			"one-half",
+			"&",
+			"$",
+			"skills",
+			"one-third",
+			"#",
+			"'",
+			"car.order",
+			"car.horn",
+			"finalprice",
+			"horn",
+			"really-big-letters",
+			"advisory",
+			"veiled-threat-closing",
+			"1-no-more-sink-for-you",
+			"red-alert",
+			"target=\"_blank\"",
+			"—",
+			"-",
+			"black",
+			"taupe",
+			"plum",
+			"button",
+			"black",
+			"button",
+			"green",
+			".utility-pro-green",
+			"home",
+			"home-gallery",
+			"gallery",
+			"@media screen and (min-width: 810px) {\nhome-gallery-1,\n.home-gallery-2 {\nfloat: left;\nwidth: 50%;",
+			"@media screen and (min-width: 810px) {\n 1328:   .home-gallery-1,\n 1329:   .home-gallery-2 {\n 1330      float: left;\n 1331      width: 50%;",
+			"home-gallery",
+			"gallery",
+			".home-gallery",
+			"button:hover",
+			"button",
+			"$white",
+			"shadows",
+			"shadow",
+			"border",
+			"blue",
+			"border: 1px solid $white;",
+			"purple",
+			"-purple",
+			"Utility",
+			"wp-config",
+			"footer",
+			"CRED",
+			"FOOTER",
+			"config",
+			"a:active",
+			"box-sizing",
+			"a:active",
+			"typo",
+			"second",
+			"themeprefix",
+			"home-gallery",
+			"background-im",
+			"background: url",
+			"header",
+			"gravity forms",
+			"test",
+			"Testimonials Widget Area",
+			"home galler",
+			"widget area",
+			"home welcome",
+			"content",
+			"entry-content",
+			"body > div.site-container > div > div > div > main > article.post-241.jetpack-portfolio.type-jetpack-portfolio.status-publish.has-post-thumbnail.jetpack-portfolio-type-customized-theme.jetpack-portfolio-type-web-design.jetpack-portfolio-tag-personal.entry > div > p",
+			"font",
+			"php",
+			"image",
+			"body {",
+			"gravity forms",
+			"important",
+			"jetpack",
+			"// Display latest posts instead of static page",
+			"// Remove standard loop and replace with loop showing Posts, not Page content",
+			"// Remove standard loop and replace with loop showing Posts, not Page content.\nremove_action( 'genesis_loop', 'genesis_do_loop' );\nadd_action ( 'genesis_loop', 'utility_pro_front_loop' );",
+			"// Remove standard loop and replace with loop showing Posts, not Page content.\nremove_action( 'genesis_loop', 'genesis_do_loop' );\nadd_action ( 'genesis_loop', 'utility_pro_front_loop' );  ",
+			"// Remove standard loop and replace with loop showing Posts, not Page content.\nremove_action( 'genesis_loop', 'genesis_do_loop' );\nadd_action ( 'genesis_loop', 'utility_pro_front_loop' );  \n\t\n\t\n// Display latest posts instead of static page\nfunction utility_pro_front_loop() {\n\tglobal $query_args;\n\tgenesis_custom_loop( wp_parse_args( $query_args, array( 'post_type' => 'post', 'paged' => get_query_var( 'page' ) ) ) );\n}",
+			"@ini_set( 'display_errors', 0 );",
+			"Torrent",
+			"my_",
+			"button",
+			"logo",
+			"sidebar",
+			"comment",
+			"$red",
+			"red",
+			"\"red\"",
+			"red",
+			"utility-pro-red",
+			"theme colors",
+			"version control",
+			"\"git\"",
+			"rails.application",
+			"vimeo.com/",
+			"handbrake",
+			"photos",
+			"android",
+			"comment",
+			"www.creativestitchesworkroom.dev",
+			"background",
+			".utility-pro-purple",
+			"home",
+			".home-gallery",
+			"home gallery",
+			"5",
+			"site navigation",
+			"portfolio page",
+			"sidebar",
+			"sidebars",
+			"utility-pro-purple"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"rfw",
+			"half-width",
+			"&amp;",
+			"work",
+			"third-width",
+			"",
+			"\"",
+			"advisory-header",
+			"advisory-section",
+			"closing",
+			"advisory",
+			"alert",
+			"",
+			"&mdash;",
+			"dark-grey",
+			"black",
+			"taupe",
+			"plum",
+			"red",
+			".utility-pro-winter-tones",
+			"$light-primary",
+			"accent",
+			"border: 1px solid $divider;",
+			"primary",
+			"",
+			"MD",
+			"utility-pro",
+			"",
+			"$primary-color",
+			"primary-color",
+			"utility-pro",
+			"cs.dev",
+			".utility-pro-custom",
+			"utility-pro-custom",
+			"3FB8AF",
+			"Handlee",
+			"Dancing Script",
+			"utility-pro",
+			"http://dev.samjolley.com/douladiane",
+			"<div class=\"col-md-5 col-center\">\n<div class=\"col-md-5 col-center\">\n<div class=\"col-md-5 col-center\">\n<div class=\"col-md-5 col-center\">",
+			"col-md-5",
+			"f3f6f8",
+			"http://normanbobrow.com/wp-content/uploads/2016/01/Norman-Bobrow-Responsive-Homepage-Image-400x-1382.png",
+			"http://nb.samjolley.com/wp-content/uploads/2015/10/Norman-Bobrow-Responsive-Homepage-Image-400x-1382-short.png",
+			"motherheartbirthservices.com",
+			"@normanbobrow.com",
+			"@m.normanbobrow.com",
+			"m.normanbobrow.com",
+			"http://normanbobrow.com",
+			"m.normanbobrow.com",
+			"nb.samjolley.com",
+			"rgba(58, 118, 153, 0.8)",
+			"utility_home_mission",
+			"utility-home-mission",
+			"@normanbobrow.com\"></a>",
+			"",
+			"nb.samjolley.com",
+			"normanbobrow.com",
+			"jolleydigital",
+			".mc_embed_signup",
+			"Item Detail",
+			"Open Sans",
+			"Raleway",
+			"9d2434"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3137,
+								3137
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 695.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 186.0
+	},
+	"output.find_results":
+	{
+		"height": 186.0
+	},
+	"output.git":
+	{
+		"height": 63.0
+	},
+	"output.sftp":
+	{
+		"height": 145.0
+	},
+	"pinned_build_system": "",
+	"project": "rogue-pickings.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"browse",
+				"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1396476521/MMG Dedicated/public_html/lasouth/test/wp-content/themes/enterprise-pro/style.css"
+			],
+			[
+				"",
+				"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1396465791/MMG Dedicated/public_html/lasouth/test/wp-content/themes/enterprise-pro/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 111.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
