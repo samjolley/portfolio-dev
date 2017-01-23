@@ -1,165 +1,161 @@
-/***** BASE STYLES *****/
-
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+     max-width: 1200px; 
+     margin: 0 auto; 
+     font-family: Montserrat, Helvetica, Arial, sans-serif;
 }
 
-#about, #work, #contact {
-    height: 600px;
+h1, 
+h3, 
+h4 {
+     color: black; 
+     text-transform: uppercase; 
 }
 
-/***** GRID *****/
-
-.full-width {
-    width: 1200px;
-    margin: 0 auto;
+h1 {
+     font-size: 30px; 
+     text-align: left; 
+     width: auto; 
+     float: left; 
+     padding: 15px 0;
 }
 
-.half-width {
-  width: 600px;
-  float: left;
+h3 {
+     font-size: 18px; 
+     text-align: center; 
+     padding: 15px;
 }
 
-.third-width {
-  width: 400px;
-  float: left;
+h4 {
+     font-size: 12px;
 }
 
-/***** Header *****/
+.main-title h3 {
+     text-align: left; 
+     padding: 5px 0px; 
+     text-transform: uppercase; 
+     color: #77a466; 
+}
 
+p {
+     padding: 0px 30px; 
+     line-height: 21px; 
+     font-size: 14px;
+}
+
+/*The widths are in a percentage!*/
 header {
-    height: 800px;
-    background: url("../img/hero.png");
-    background-size: cover;
+     width: 100%; 
+     height: 110px; 
+     border-bottom: 3px solid #77a466; 
+     margin: 0 auto;
 }
 
-header h1 { 
-    padding: 50px 0;
-    font-family: 'Lora', serif; 
-    font-size: 30px;
-    color: #bbc085;
+header span {
+     color: #77a466;
 }
 
-nav {
-    float: right; 
-    padding: 75px 40px;
-}
-nav ul li{
-    display: inline-block;
-}
-nav ul li a {
-    text-transform: uppercase;
-    text-decoration: none;
-    font-size: 18px;
-    color: #828282;
-    padding-left: 80px; 
+header nav {
+     float: right; 
+     padding: 45px 0px;
 }
 
-header h2 {
-    width: 1000px;
-    clear: both;
-    font-family: 'lora', sans;
-    font-size: 72px;
-    line-height: 60px;
-    color: #9a9b9b;
-    padding: 20px 0;
-}
-header h2 span {
-    color: 
+header nav a {
+     text-decoration: none; 
+     text-transform: uppercase; 
+     font-weight: bold; 
+     font-size: 14px; 
+     padding: 0 10px; 
+     color:#77a466;
 }
 
-
-/***** About *****/
-
-#about .full-width {
-    padding: 80px 0;
+/*The widths are in a percentage!*/
+.top-section, 
+.bottom-section {
+     width: 100%; 
+     margin: 0 auto; 
+     clear: both;
 }
 
-#about h2 {
-    font-family: 'Lora', serif;
-    font-size: 24px;
-}
- 
-#about p {
-    font-size: 18px;
-    color: #262a2b;
-    line-height: 40px;
-    padding-right: 50px;
+.main-image {
+     width: 100%; 
+     height: auto; 
+     float: left;
 }
 
-/***** Work *****/
-
-#work {
-  background: #f9ceb7;
-  text-align: center;
+.main-image img {
+     width: 100%; 
+     border-bottom: 3px solid #77a466;
 }
 
-#work .full-width {
-    padding: 115px 0;
-}
- 
-#work img {
-    padding-bottom: 30px;
+.main-title {
+     width: 100%; 
+     height: auto; 
+     float: left;
 }
 
-#work h3 {
-    font-size: 
-    width:
-    margin: 0 auto;
-}
- 
-#work p {
-    font-family: 
-    font-size:
-    line-height: 
-    color:
-    padding: 0 35px;
+.main-title p {
+     padding: 0px; 
+     line-height: 25px; 
+     font-size: 16px;
 }
 
-/****** CONTACT ******/
+.section-one, 
+.section-two, 
+.section-three {
+     width: 33%; 
+     height: auto; 
+     float: left; 
+     border-top: 1px solid #eee;
+}
 
-#contact {
-    background-color: #ebebeb;
+.section-one, 
+.section-two {
+     border-right: 1px solid #eee;
 }
-#contact .full-width {
-    padding: 110px 0;
+
+.section-one h4 {
+     padding: 10px 0px;
 }
-#contact-img{
-    border: 12px solid #ffffff;
+
+.section-two h4, 
+.section-three h4 {
+     padding: 10px 30px;
 }
-#contact h2, #email-header, #socialmedia-header, #contact ul {
-    padding-left: 115px;
+
+.menu {
+     list-style: none; 
+     padding: 0px;
 }
-#envelope {
-    padding: 0 10px 0 115px;
+
+.menu li {
+     padding: 10px 0; 
+     color:#77a466;
 }
-#contact h2 {
-    font-family: 'Lora', serif;
-    font-size: 36px;
+
+.reviews {
+     color: #333; 
+     line-height: 21px; 
+     font-size: 16px;
 }
-#email-header{
-    font-size: 32px;
-    font-weight: 400;
-    margin: -30px 0 5px 0;
+
+.address {
+     font-size: 16px; 
+     line-height: 24px;
 }
-#socialmedia-header {
-    font-weight: bold;
-    font-size: 29px;
-    margin: 40px 0 0px 0;
+
+/*The widths are in a percentage!*/
+footer {
+     width: 100%; 
+     height: 50px; 
+     border-top: 3px solid #eee; 
+     margin: 0 auto; 
+     clear: both; 
+     text-align: center;
 }
-#contact a {
-    text-decoration: none;
-    color: #c49075;
-    font-weight: bold;
-    font-size: 28px;
-}
-#contact ul {
-    list-style: none;
-}
-#contact ul li {
-     display: inline-block;
-}
-#contact ul img {
-    font-size: 32px;
-    padding-right: 48px;
+
+footer span {
+     font-family: "Wisdom Script", script; 
+     text-transform: lowercase; 
+     color: #77a466; 
+     font-size: 14px;
 }
